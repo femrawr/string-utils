@@ -1,1 +1,8 @@
+:root {
+    --scroll-thumb: #1e2124;
+    --scroll-track: #2f3136;
 
+    --bg-primary: #36393f;
+    --bg-secondary: #40444b;
+    --bg-tertiary: #2f3136
+}
